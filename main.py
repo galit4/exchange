@@ -14,3 +14,4 @@ class Company:
         self.current_stock = current_stock
         self.starting_stock = starting_stock
         self.available_stock = available_stock
+#СЛава ісусу христу
