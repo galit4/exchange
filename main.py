@@ -8,7 +8,6 @@ class User:
             self.total_amount = total_amount
 
 
-
 class Company:
     def __init__(self, name, current_stock, starting_stock, available_stock):
         self.name = name
