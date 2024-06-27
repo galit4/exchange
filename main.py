@@ -1,3 +1,3 @@
 #СЛАВА ІСУСУ ХРИСТУ
 aboba = input()
-a = abobus
+ab = abobus
